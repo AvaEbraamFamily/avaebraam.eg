@@ -1,0 +1,29 @@
+body{
+    background-color: #F8F9D7;
+    text-align: center;
+    font-size: x-large;
+}
+
+.btns{
+    padding: 3%;
+    font-size: x-large;
+}
+.H1{
+    font-family: 'Gulzar', serif; 
+    margin: 5%;
+    font-weight: bolder;
+    
+}
+.img3{
+    width: 20%;
+}
+.btn{
+    font-size: x-large;
+   padding: 3%;
+}
+.H2{
+    margin: 5%;
+    font-family: 'Gulzar', serif; 
+    color: #51557E;
+    font-size: x-large;
+}
