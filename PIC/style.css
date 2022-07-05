@@ -1,0 +1,22 @@
+body{
+    background-color:#1B2430;
+    text-align: center;
+}
+.img1 {
+    margin-top: 5%;
+    margin-bottom: 1%;
+width: 60% ;height: 50%;
+}
+.txt1{
+    font-family: 'Tajawal', sans-serif;
+    color: aliceblue;
+    font-size:380%;
+    font-weight: bolder;
+}
+.btn1{
+    
+    font-size:xx-large ;
+    font-weight: bolder;
+}
+
+
