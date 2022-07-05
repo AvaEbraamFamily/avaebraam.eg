@@ -1,12 +1,12 @@
 body{
     background-color: #F8F9D7;
     text-align: center;
-    font-size: xx-large;
+    font-size: 350%;
 }
 
 .btns{
     padding: 3%;
-    font-size: xx-large;
+    font-size: 350%;
 }
 .H1{
     font-family: 'Gulzar', serif; 
@@ -18,12 +18,12 @@ body{
     width: 20%;
 }
 .btn{
-    font-size: xx-large;
+    font-size: 350%;
    padding: 3%;
 }
 .H2{
     margin: 5%;
     font-family: 'Gulzar', serif; 
     color: #51557E;
-    font-size: xx-large;
+    font-size: 350%;
 }
